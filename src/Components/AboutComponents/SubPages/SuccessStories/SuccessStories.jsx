@@ -29,22 +29,20 @@ export default function SuccessStories() {
   return (
     <div>
       <HeroSection2
-        title="Why Choose KBM?"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
-        btnText="Join Now"
+        title="Our Success Stories"
+        description="Discover how KBM Education Consultancy has guided students to achieve their study abroad dreams with confidence and success."
+        // btnText="Learn More"
       />
       <section className="container mx-auto my-12">
         {/* Heading */}
         <div className="mb-12 flex items-center flex-col gap-4">
           <h1 className="text-4xl lg:text-5xl text-center font-bold text-gray-900 leading-tight">
-            Explore Our Students Success Stories
+            Celebrating Our Students' Achievements
           </h1>
           <p className="max-w-3xl text-center text-base md:text-lg">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum
-            sed repellendus velit quia ipsam in blanditiis pariatur voluptas
-            obcaecati commodi.
+            See how KBM Education Consultancy has helped students fulfill their
+            dreams of studying abroad and achieving success in their academic
+            journey.
           </p>
         </div>
 

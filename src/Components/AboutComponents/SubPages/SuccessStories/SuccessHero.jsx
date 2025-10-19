@@ -6,9 +6,7 @@ export default function SuccessHero() {
     <div>
       <HeroSection2
         title="Our Success Stories"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Discover how KBM Education Consultancy has guided students to achieve their study abroad dreams with confidence and success."
         // btnText="Learn More"
       />
     </div>

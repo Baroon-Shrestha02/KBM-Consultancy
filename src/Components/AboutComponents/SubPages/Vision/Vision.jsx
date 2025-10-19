@@ -19,16 +19,20 @@ export default function Vision() {
           {/* Description */}
           <div className="flex items-center justify-center text-center px-4">
             <p className="max-w-4xl text-sm sm:text-base md:text-lg leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-              consectetur voluptas deserunt distinctio reprehenderit cumque, nam
-              labore veritatis quisquam tempore, incidunt quam animi omnis enim
-              sequi fuga saepe nobis voluptatum ut. Laborum fuga, rerum iure
-              maiores sequi sunt qui, ut animi enim aspernatur incidunt minima
-              minus blanditiis magni consequuntur recusandae corrupti ipsam
-              neque id. Rerum vel expedita beatae tenetur fugiat quod itaque
-              voluptates cumque corporis, impedit totam laudantium iusto illo
-              exercitationem ipsam ab quae, maiores accusantium nihil velit
-              nesciunt perferendis dolor sapiente.
+              At KBM Education Consultancy, our vision is to empower students
+              across the globe to achieve their academic and professional
+              aspirations through personalized guidance and unwavering support.
+              We strive to provide a transparent, comprehensive, and ethical
+              approach to study abroad planning, ensuring each student receives
+              tailored counseling, accurate information, and practical advice
+              for every step of their journey—from selecting the right courses
+              and universities to visa preparation and post-arrival support. By
+              fostering a culture of trust, mentorship, and excellence, we aim
+              to bridge the gap between students’ ambitions and opportunities
+              worldwide, helping them navigate challenges with confidence. Our
+              ultimate goal is to equip every student with the knowledge,
+              resources, and skills necessary to succeed academically,
+              professionally, and personally in their chosen destination.
             </p>
           </div>
 

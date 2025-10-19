@@ -7,12 +7,7 @@ export default function CadHero() {
       <StudyHero
         bgImg="/Uploads/study/cad/cad2.jpg"
         title="Canada 🇨🇦"
-        description="Lulu and Georgia is a contemporary interior design and home
-                    decor company celebrated for its chic, modern aesthetic with
-                    a touch of bohemian charm, offering a wide range of stylish
-                    furniture, rugs, and home accessories that cater to diverse
-                    tastes, transforming homes into beautifully curated,
-                    inviting spaces."
+        description="Experience high-quality education in Canada with multicultural environments and advanced facilities. Study in Canada supports personal growth, career advancement, and global opportunities."
         img="/Uploads/home/hero.avif"
         video="/Uploads/home/hero.mp4"
       />

@@ -26,25 +26,34 @@ export default function AboutTeam() {
           transition={{ duration: 0.8 }}
         >
           <h2 className="text-4xl md:text-6xl font-bold mb-4 text-gray-900">
-            Who are behind your Success?
+            Who’s Behind Your Success?
           </h2>
           <p className="text-justify text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
-            architecto distinctio omnis facere unde, voluptate dolores nihil
-            officiis aperiam eveniet, ut autem pariatur consequuntur esse nulla
-            tempora dolore sequi quis ab! Quis, molestias doloremque pariatur
-            exercitationem deleniti non aliquid eaque nostrum consequuntur harum
-            aperiam enim, ipsam veniam totam culpa iure qui corrupti optio
-            labore et in accusantium. Nesciunt quod, inventore possimus quasi
-            voluptatum optio consectetur, odio eveniet cumque reprehenderit
-            dicta ullam nostrum quam aspernatur magni at hic totam. Nisi
-            repellendus laudantium commodi, quisquam quam repellat nam?
-            Architecto, soluta maiores. Sint placeat eum, voluptates magni,
-            rerum officia odio minima iusto nam corrupti necessitatibus odit
-            ipsum enim quam quasi beatae recusandae fugiat facere dicta.
+            At{" "}
+            <span className="font-semibold text-blue-700">
+              KBM Education Consultancy
+            </span>
+            , our team of experienced counsellors, academic advisors, and
+            international education experts are dedicated to helping you achieve
+            your study abroad dreams. Each of our professionals brings years of
+            experience in guiding students toward the right universities and
+            programs in Japan, the USA, Australia, the UK, Canada, and beyond.
+            <br />
+            <br />
+            We believe that success begins with personalized mentorship. From
+            career counselling to application assistance, visa processing, and
+            pre-departure sessions, our experts walk beside you at every step of
+            your journey. Our mission is to ensure that every student receives
+            transparent advice, genuine guidance, and lifelong support even
+            after reaching their destination.
+            <br />
+            <br />
+            With KBM, your goals are nurtured by people who truly care about
+            your success — because your achievement is our greatest reward.
           </p>
-          <button className="text-lg px-4 py-1 rounded-xl bg-text text-white transition-colors">
-            See More about your instructors
+
+          <button className="text-lg px-4 py-1 rounded-xl bg-text text-white hover:scale-105 duration-300">
+            Meet Our Instructors
           </button>
         </motion.div>
 

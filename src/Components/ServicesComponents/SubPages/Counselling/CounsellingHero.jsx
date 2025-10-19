@@ -6,9 +6,7 @@ export default function CounsellingHero() {
     <div>
       <HeroSection2
         title="Career Counselling"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Get personalized guidance to plan your career path and achieve your study abroad goals."
         btnText=""
       />
     </div>

@@ -6,10 +6,7 @@ export default function DocHero() {
     <div>
       <HeroSection2
         title="Documentation Help"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
-        // btnText="Learn More"
+        description="Receive expert support for preparing and organizing all necessary documents for your study abroad journey."
       />
     </div>
   );

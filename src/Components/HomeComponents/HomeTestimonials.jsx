@@ -8,38 +8,47 @@ export default function HomeTestimonials() {
     {
       id: 1,
       name: "Aarav Sharma",
-      role: "Software Engineer",
+      role: "Student – Japan",
       image: "Uploads/home/prof.jpg",
       quote:
-        "KBM Education Consultancy guided me at every step—from understanding the visa process to preparing for academic life in Japan. Their support gave me the confidence to pursue my goals abroad.",
+        "KBM Education Consultancy made my journey to Japan completely stress-free. From the visa interview to finding accommodation after arrival, their constant support helped me adapt quickly to life abroad.",
       bg: "bg-[#F4E9DC] text-[#7A542F]",
     },
     {
       id: 2,
       name: "Priya Karki",
-      role: "Student",
+      role: "Undergraduate Student – Australia",
       image: "Uploads/home/prof.jpg",
       quote:
-        "The team at KBM made what seemed complicated very simple. Their mentorship helped me focus on my studies and achieve my dreams with clarity and confidence.",
+        "Getting my Australian student visa was one of the happiest moments of my life! KBM guided me from course selection to post-arrival assistance. Their team stayed in touch even after I landed in Sydney, making me feel like part of a family.",
       bg: "bg-white text-gray-900 shadow-2xl",
     },
     {
       id: 3,
       name: "Rohit Thapa",
-      role: "Intern",
+      role: "Graduate Student – United States",
       image: "Uploads/home/prof.jpg",
       quote:
-        "Thanks to KBM, I not only understood the application process but also received practical advice that helped me settle into my new environment smoothly.",
+        "The process of applying to U.S. universities can be overwhelming, but KBM made it effortless. After my visa approval, they continued to guide me on housing, part-time work, and adapting to the new environment. I couldn’t have done it without them.",
       bg: "bg-[#F4E9DC] text-[#7A542F] shadow-xl",
     },
     {
       id: 4,
       name: "Sanjana Rai",
-      role: "Research Scholar",
+      role: "Research Scholar – United Kingdom",
       image: "Uploads/home/prof.jpg",
       quote:
-        "From documentation to pre-departure guidance, KBM Education Consultancy was there for me at every stage. Their expertise made my transition seamless.",
+        "KBM Education Consultancy provided complete support — from university selection in the UK to pre-departure orientation. Even after my arrival, they followed up to ensure everything went smoothly. Their professionalism and care are unmatched.",
       bg: "bg-black text-white",
+    },
+    {
+      id: 5,
+      name: "Anish Gurung",
+      role: "Diploma Student – Canada",
+      image: "Uploads/home/prof.jpg",
+      quote:
+        "I’m now studying in Toronto, and it still feels unreal! KBM guided me through every stage — documentation, visa, and post-landing advice. Their encouragement gave me the confidence to start a new life here successfully.",
+      bg: "bg-white text-gray-900 shadow-2xl",
     },
   ];
 

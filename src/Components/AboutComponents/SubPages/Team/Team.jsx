@@ -10,7 +10,7 @@ const teamMembers = [
     image:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&h=500&fit=crop",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum officiis possimus beatae ipsam, alias sapiente corporis, similique vero asperiores voluptates ratione neque sit magnam velit quas suscipit? Fuga id harum inventore tempora magni, numquam error suscipit, adipisci enim ut molestias saepe? Enim amet cum repellendus saepe, laudantium quia laborum doloribus tempore reprehenderit laboriosam odio, porro illo architecto vero voluptatibus assumenda! Cum quod excepturi veniam recusandae rem nostrum quidem earum provident modi possimus in minima amet, error repellat ipsum beatae, accusantium et natus sit officiis sunt laudantium ex? Quidem omnis minima, beatae ab, delectus quae ipsum optio distinctio expedita excepturi aliquam?",
+      "As the visionary behind KBM Education Consultancy, Suman Tamang has guided hundreds of students toward achieving their study abroad dreams. With a deep understanding of international education systems and years of leadership experience, he ensures that every student receives transparent, ethical, and personalized guidance throughout their journey.",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const teamMembers = [
     image:
       "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum officiis possimus beatae ipsam, alias sapiente corporis, similique vero asperiores voluptates ratione neque sit magnam velit quas suscipit? Fuga id harum inventore tempora magni, numquam error suscipit, adipisci enim ut molestias saepe? Enim amet cum repellendus saepe, laudantium quia laborum doloribus tempore reprehenderit laboriosam odio, porro illo architecto vero voluptatibus assumenda! Cum quod excepturi veniam recusandae rem nostrum quidem earum provident modi possimus in minima amet, error repellat ipsum beatae, accusantium et natus sit officiis sunt laudantium ex? Quidem omnis minima, beatae ab, delectus quae ipsum optio distinctio expedita excepturi aliquam?",
+      "Rajib Raj Tamang oversees the daily operations and strategic direction of KBM. His leadership focuses on maintaining excellence across departments—from counseling and documentation to visa assistance—ensuring that every student experiences a smooth and reliable process from start to finish.",
   },
   {
     id: 3,
@@ -28,25 +28,25 @@ const teamMembers = [
     image:
       "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&h=500&fit=crop",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum officiis possimus beatae ipsam, alias sapiente corporis, similique vero asperiores voluptates ratione neque sit magnam velit quas suscipit? Fuga id harum inventore tempora magni, numquam error suscipit, adipisci enim ut molestias saepe? Enim amet cum repellendus saepe, laudantium quia laborum doloribus tempore reprehenderit laboriosam odio, porro illo architecto vero voluptatibus assumenda! Cum quod excepturi veniam recusandae rem nostrum quidem earum provident modi possimus in minima amet, error repellat ipsum beatae, accusantium et natus sit officiis sunt laudantium ex? Quidem omnis minima, beatae ab, delectus quae ipsum optio distinctio expedita excepturi aliquam?",
+      "With a strong background in student counseling and international partnerships, Anil Chaudhary brings extensive expertise in matching students with the right institutions. His approach blends practical advice with empathy, helping students choose the best academic path for their goals and aspirations.",
   },
   {
     id: 4,
-    name: "David Martinez",
-    role: "Customer Relations",
+    name: "—",
+    role: "Front Desk Officer",
     image:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&h=500&fit=crop",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum officiis possimus beatae ipsam, alias sapiente corporis, similique vero asperiores voluptates ratione neque sit magnam velit quas suscipit? Fuga id harum inventore tempora magni, numquam error suscipit, adipisci enim ut molestias saepe? Enim amet cum repellendus saepe, laudantium quia laborum doloribus tempore reprehenderit laboriosam odio, porro illo architecto vero voluptatibus assumenda! Cum quod excepturi veniam recusandae rem nostrum quidem earum provident modi possimus in minima amet, error repellat ipsum beatae, accusantium et natus sit officiis sunt laudantium ex? Quidem omnis minima, beatae ab, delectus quae ipsum optio distinctio expedita excepturi aliquam?",
+      "As the first point of contact at KBM, our Front Desk Officer ensures that every student feels welcomed and guided from the moment they walk in. With a friendly approach and excellent communication skills, they assist with inquiries, appointments, and initial counseling coordination.",
   },
   {
     id: 5,
-    name: "Lisa Anderson",
-    role: "Marketing Director",
+    name: "—",
+    role: "Language Instructor",
     image:
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&h=500&fit=crop",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum officiis possimus beatae ipsam, alias sapiente corporis, similique vero asperiores voluptates ratione neque sit magnam velit quas suscipit? Fuga id harum inventore tempora magni, numquam error suscipit, adipisci enim ut molestias saepe? Enim amet cum repellendus saepe, laudantium quia laborum doloribus tempore reprehenderit laboriosam odio, porro illo architecto vero voluptatibus assumenda! Cum quod excepturi veniam recusandae rem nostrum quidem earum provident modi possimus in minima amet, error repellat ipsum beatae, accusantium et natus sit officiis sunt laudantium ex? Quidem omnis minima, beatae ab, delectus quae ipsum optio distinctio expedita excepturi aliquam?",
+      "Our experienced Language Instructor provides comprehensive training for Japanese, English, and other language proficiency exams. With an engaging and supportive teaching style, they prepare students not only to pass tests but also to communicate confidently in their new academic and cultural environment.",
   },
 ];
 
@@ -82,12 +82,11 @@ export default function TeamMembers() {
   return (
     <>
       <HeroSection2
-        title="About Our Team."
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
-        btnText="Learn More"
+        title="Meet Our Dedicated Team"
+        description="Our team at KBM Education Consultancy is committed to guiding students every step of the way. From personalized counseling to visa assistance and language preparation, we combine expertise and passion to help students achieve their dreams abroad."
+        // btnText="Learn More"
       />
+
       <section className="min-h-screen bg-gray-50 relative py-20 px-6">
         <div className="relative z-10 max-w-7xl mx-auto">
           <div className="mb-16 flex items-center flex-col">
@@ -95,11 +94,9 @@ export default function TeamMembers() {
               Our Team
             </h2>
             <p className="text-center max-w-3xl text-lg md:text-xl">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Distinctio delectus quos nesciunt quis, ex, reiciendis veniam
-              quisquam mollitia veritatis nisi excepturi nihil similique eveniet
-              quibusdam aut. Modi nisi molestias vel expedita ea assumenda ab
-              tenetur.
+              Our expert team provides personalized guidance and support to help
+              students succeed in their study abroad journey, from course
+              selection to visa and exam preparation.
             </p>
           </div>
 

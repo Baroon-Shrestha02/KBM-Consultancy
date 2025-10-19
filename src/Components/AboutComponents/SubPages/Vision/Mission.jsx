@@ -19,16 +19,18 @@ export default function Mission() {
           {/* Description */}
           <div className="flex items-center justify-center text-center px-4">
             <p className="max-w-4xl text-sm sm:text-base md:text-lg leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-              consectetur voluptas deserunt distinctio reprehenderit cumque, nam
-              labore veritatis quisquam tempore, incidunt quam animi omnis enim
-              sequi fuga saepe nobis voluptatum ut. Laborum fuga, rerum iure
-              maiores sequi sunt qui, ut animi enim aspernatur incidunt minima
-              minus blanditiis magni consequuntur recusandae corrupti ipsam
-              neque id. Rerum vel expedita beatae tenetur fugiat quod itaque
-              voluptates cumque corporis, impedit totam laudantium iusto illo
-              exercitationem ipsam ab quae, maiores accusantium nihil velit
-              nesciunt perferendis dolor sapiente.
+              Our mission at KBM Education Consultancy is to guide students in
+              realizing their academic and professional dreams with clarity,
+              confidence, and personalized support. We are committed to
+              providing accurate information, transparent processes, and
+              practical advice throughout every step of the study abroad
+              journey—from selecting the right courses and universities to visa
+              preparation and post-arrival guidance. By fostering a supportive
+              environment, we aim to empower students to make informed
+              decisions, overcome challenges, and embrace global opportunities.
+              Through mentorship, expertise, and dedication, our goal is to help
+              each student unlock their full potential, achieve success in their
+              chosen destination, and grow both academically and personally.
             </p>
           </div>
 

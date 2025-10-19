@@ -189,9 +189,9 @@ export default function AboutSubWhy() {
             Why makes KBM stand Out?
           </div>
           <div className="max-w-3xl text-xl text-gray-600 leading-relaxed text-center">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus
-            accusamus ullam modi autem pariatur hic aspernatur, minus dolores
-            obcaecati nihil, totam, animi aliquid quas ducimus.
+            KBM Education Consultancy provides personalized guidance, expert
+            mentorship, and a wide university network to help students achieve
+            their study abroad goals with confidence.
           </div>
         </div>
 

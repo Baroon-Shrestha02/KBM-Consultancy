@@ -9,91 +9,84 @@ export default function Testimonials() {
       name: "Aarav Sharma",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The instructors were incredibly supportive and made complex topics easy to understand. My experience here truly transformed my career path. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam, molestias possimus. Corporis omnis aut commodi tenetur ea? Ducimus, laboriosam obcaecati necessitatibus eaque, harum, voluptatibus corrupti tempore numquam accusamus laborum doloremque itaque! Quo tenetur quia at, reprehenderit nemo sit repellendus enim sequi unde totam libero minus optio, vel et fuga numquam voluptatem sint, officiis doloremque quam voluptates a! Deleniti eaque atque commodi animi explicabo modi consequuntur, ad alias dolorem recusandae placeat.",
+        "Thanks to KBM Education Consultancy, I’m now pursuing my IT degree in Japan. From university selection to post-arrival guidance, they supported me like family. Their constant communication after my visa approval made me feel secure and confident.",
     },
     {
       id: 2,
       name: "Priya Karki",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "I loved how interactive and practical the sessions were. It wasn’t just theory – we actually got hands-on experience on real-world projects.",
+        "Getting my visa for Australia was the biggest dream of my life, and KBM made it a reality. They explained every step clearly, prepared me for the interview, and even guided me after I landed in Melbourne. Truly a life-changing experience!",
     },
     {
       id: 3,
       name: "Rohit Thapa",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The learning environment and mentorship exceeded my expectations. I feel more confident in my skills and career direction.",
+        "I’m currently studying in Toronto, and I still remember how smoothly KBM handled my Canada process. From choosing the right college to completing all documentation, they made it stress-free. Their team genuinely cares about every student.",
     },
     {
       id: 4,
-      name: "Aarav Sharma",
+      name: "Sanjana Rai",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The instructors were incredibly supportive and made complex topics easy to understand. My experience here truly transformed my career path.",
+        "KBM guided me throughout my UK journey — from SOP writing to accommodation assistance. Even after I reached London, they followed up to ensure I was settling well. I couldn’t have asked for better support!",
     },
     {
       id: 5,
-      name: "Priya Karki",
+      name: "Nirajan Shrestha",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "I loved how interactive and practical the sessions were. It wasn’t just theory – we actually got hands-on experience on real-world projects.",
+        "I always dreamt of studying in the U.S., but the process seemed complicated. KBM made it simple and stress-free. Their guidance during the visa interview helped me gain confidence, and now I’m studying in New York happily.",
     },
     {
       id: 6,
-      name: "Rohit Thapa",
+      name: "Manisha Gurung",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The learning environment and mentorship exceeded my expectations. I feel more confident in my skills and career direction.",
+        "The consultants at KBM were professional and friendly. They provided genuine advice on course selection for Australia and helped me prepare all my documents perfectly. I highly recommend them to anyone planning to study abroad.",
     },
     {
       id: 7,
-      name: "Aarav Sharma",
+      name: "Bibek Tamang",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The instructors were incredibly supportive and made complex topics easy to understand. My experience here truly transformed my career path.",
+        "I’m now studying business management in the UK, thanks to KBM’s expert counseling. They made sure I understood everything clearly — from university options to pre-departure sessions. Their personalized guidance really stood out.",
     },
     {
       id: 8,
-      name: "Priya Karki",
+      name: "Anjali Adhikari",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "I loved how interactive and practical the sessions were. It wasn’t just theory – we actually got hands-on experience on real-world projects.",
+        "KBM Education Consultancy helped me with every detail for my study in Japan. From language school application to part-time job guidance after arrival, they made sure I was well-prepared for a new chapter of my life.",
     },
     {
       id: 9,
-      name: "Rohit Thapa",
+      name: "Kiran Maharjan",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The learning environment and mentorship exceeded my expectations. I feel more confident in my skills and career direction.",
+        "My Canada visa process was quick and smooth thanks to KBM. They were transparent, honest, and professional from start to finish. Even now, they check in occasionally, which shows how much they care about their students.",
     },
     {
       id: 10,
-      name: "Aarav Sharma",
+      name: "Sneha Lama",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The instructors were incredibly supportive and made complex topics easy to understand. My experience here truly transformed my career path.",
+        "Studying in Sydney has been an incredible experience. KBM made the whole process—from course counseling to flight booking—completely stress-free. I’m so grateful for their dedication and patience throughout.",
     },
     {
       id: 11,
-      name: "Priya Karki",
+      name: "Rajesh KC",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "I loved how interactive and practical the sessions were. It wasn’t just theory – we actually got hands-on experience on real-world projects.",
+        "I had almost given up on my dream of studying in the USA due to a previous visa rejection, but KBM helped me rebuild my confidence and reapply successfully. Their motivation and experience truly changed my future.",
     },
     {
       id: 12,
-      name: "Rohit Thapa",
+      name: "Asmita Bhattarai",
       image: "/Uploads/home/prof.jpg",
       quote:
-        "The learning environment and mentorship exceeded my expectations. I feel more confident in my skills and career direction.",
-    },
-    {
-      id: 12,
-      name: "Rohit Thapa",
-      image: "/Uploads/home/prof.jpg",
-      quote:
-        "The learning environment and mentorship exceeded my expectations. I feel more confident in my skills and career direction.",
+        "KBM made my journey to Canada completely hassle-free. They not only handled my visa process but also provided genuine pre-departure guidance. I’m thankful for their continuous support and care.",
     },
   ];
 

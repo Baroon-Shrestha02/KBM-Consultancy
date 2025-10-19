@@ -6,9 +6,7 @@ export default function UniSelhero() {
     <div>
       <HeroSection2
         title="Our Partner Universities"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Explore our global network of partner universities to find the perfect fit for your academic journey."
         btnText="Learn More"
       />
     </div>

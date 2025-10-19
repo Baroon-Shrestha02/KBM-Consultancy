@@ -7,10 +7,8 @@ export default function SuccessMain() {
   return (
     <div>
       <HeroSection2
-        title="Why Choose KBM?"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        title="Our Success Stories"
+        description="Discover how KBM Education Consultancy has guided students to achieve their study abroad dreams with confidence and success."
         // btnText="Learn More"
       />
       <SuccessStories />

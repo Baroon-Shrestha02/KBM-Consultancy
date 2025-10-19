@@ -10,7 +10,7 @@ export default function CounsellingMain() {
       <CounsellingHero />
       <CounsellingInfo />
       <CounsellingForm />
-      <CounsellingCTA />
+      {/* <CounsellingCTA /> */}
     </div>
   );
 }

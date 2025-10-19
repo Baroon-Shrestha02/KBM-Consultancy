@@ -26,9 +26,16 @@ export default function OurServices() {
       content: {
         title: "Personalized Consultation",
         description:
-          "We begin with a private consultation to understand your academic goals, financial situation, and preferred study destinations. This helps us design the most suitable study plan for you.",
+          "Your journey begins with a private one-on-one consultation where our experienced counselors take time to understand your academic background, career aspirations, financial capability, and preferred destination. This step ensures that your study abroad plan is uniquely crafted for your goals rather than following a one-size-fits-all approach. Our expert team provides realistic insights, helps you clarify doubts, and builds a roadmap that aligns with your ambitions.",
         image:
           "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&q=80",
+        offers: [
+          "Comprehensive academic and financial profiling",
+          "Detailed discussion on study destinations and goals",
+          "Personalized study abroad roadmap",
+          "Guidance on course eligibility and requirements",
+          "Initial advice on scholarships and budgeting",
+        ],
       },
     },
     {
@@ -38,9 +45,16 @@ export default function OurServices() {
       content: {
         title: "Course & Career Guidance",
         description:
-          "We help you choose the right course and career pathway that aligns with your long-term goals and aspirations, across multiple countries including Japan, Australia, UK, US, and Canada.",
+          "Choosing the right course is crucial to building a successful career abroad. Our counselors analyze your academic interests, skill set, and future aspirations to help you identify the best-fit programs across top global universities. We also consider job market trends, internship opportunities, and future prospects to ensure your education investment pays off long-term.",
         image:
           "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+        offers: [
+          "Career-oriented course selection assistance",
+          "Guidance on high-demand programs globally",
+          "Comparison of universities and course structures",
+          "Future job market and PR pathway insights",
+          "Expert advice on aligning course with career goals",
+        ],
       },
     },
     {
@@ -50,9 +64,16 @@ export default function OurServices() {
       content: {
         title: "Test Preparation",
         description:
-          "Guidance and resources for language tests (IELTS, TOEFL, JLPT) or other required exams to help you achieve competitive scores for university admissions abroad.",
+          "Many international universities require standardized test scores such as IELTS, TOEFL, or JLPT. We provide expert-led preparation support to help you achieve competitive results. Our training covers exam strategy, time management, and personalized practice to strengthen your performance and confidence.",
         image:
           "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+        offers: [
+          "IELTS, TOEFL, PTE, and JLPT preparation support",
+          "Customized study plans and mock tests",
+          "Expert-led grammar, vocabulary, and speaking sessions",
+          "One-on-one progress tracking and feedback",
+          "Access to study materials and practice resources",
+        ],
       },
     },
     {
@@ -62,9 +83,16 @@ export default function OurServices() {
       content: {
         title: "University & Country Selection",
         description:
-          "We shortlist the best universities and countries based on your budget, field of study, scholarship opportunities, and personal preferences to maximize your chances of success.",
+          "Selecting the right university and country determines your academic experience and long-term success. We analyze your academic background, field of interest, and financial plans to shortlist universities that fit your profile. Our global insights ensure you make informed decisions about where and what to study.",
         image:
           "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+        offers: [
+          "Profile-based university shortlisting",
+          "Comparison of living costs and tuition fees",
+          "Advice on country-specific admission requirements",
+          "Guidance on scholarship and funding options",
+          "Recommendations for safe and student-friendly destinations",
+        ],
       },
     },
     {
@@ -74,9 +102,16 @@ export default function OurServices() {
       content: {
         title: "Documentation & Application Assistance",
         description:
-          "We assist in preparing, verifying, and submitting all necessary documents for university and visa applications, ensuring accuracy and compliance with embassy and university requirements.",
+          "Proper documentation plays a vital role in your admission and visa process. Our dedicated team ensures that all your academic, financial, and identification documents meet the exact requirements of universities and embassies. We assist you in drafting statements of purpose (SOPs), resumes, and recommendation letters that make your application stand out.",
         image:
           "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+        offers: [
+          "End-to-end assistance with application forms",
+          "SOP, resume, and reference letter guidance",
+          "Document verification and formatting support",
+          "University and embassy submission tracking",
+          "Error-free document preparation for visa compliance",
+        ],
       },
     },
     {
@@ -86,9 +121,16 @@ export default function OurServices() {
       content: {
         title: "Interview Preparation",
         description:
-          "We conduct mock interviews, guide you on common questions, and help you present your case confidently to embassy officials and university panels.",
+          "Interviews are often the final step before admission or visa approval. Our experts train you to communicate clearly, handle difficult questions confidently, and present your intent effectively. With mock sessions and feedback, you’ll be fully prepared to make a positive impression before the university panel or embassy officials.",
         image:
-          "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "https://images.unsplash.com/photo-1600718373744-878dfc0a6f52?w=800&q=80",
+        offers: [
+          "Mock interviews for visa and university preparation",
+          "Feedback on communication and confidence",
+          "Tips for handling tricky questions professionally",
+          "Training on required documents and interview etiquette",
+          "Cultural briefing for country-specific interviews",
+        ],
       },
     },
     {
@@ -98,9 +140,16 @@ export default function OurServices() {
       content: {
         title: "Pre-departure Orientation",
         description:
-          "We provide a comprehensive briefing on travel, accommodation, finance management, and essential do’s and don’ts for students preparing to go abroad.",
+          "Before you board your flight, we ensure you’re well-prepared for the journey ahead. Our pre-departure session covers essential travel tips, cultural guidance, financial management advice, and what to expect during your first few weeks abroad. It helps you transition smoothly into your new environment.",
         image:
-          "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "https://images.unsplash.com/photo-1600566752187-2b3b6f0b1b12?w=800&q=80",
+        offers: [
+          "Detailed briefing on travel and arrival procedures",
+          "Advice on accommodation, banking, and SIM setup",
+          "Guidelines on safety and student rights abroad",
+          "Tips for managing culture shock and homesickness",
+          "Checklist of essentials before departure",
+        ],
       },
     },
     {
@@ -110,9 +159,16 @@ export default function OurServices() {
       content: {
         title: "Cultural & Language Training",
         description:
-          "Get familiar with your destination’s culture, lifestyle, and language etiquette through engaging sessions, ensuring smooth adaptation and integration.",
+          "Studying abroad means adapting to new cultures and languages. We provide interactive cultural orientation and beginner-level language training to help students settle easily and communicate effectively. These sessions enhance confidence and foster a respectful understanding of your host country’s customs.",
         image:
-          "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "https://images.unsplash.com/photo-1600566752600-b6d06aa0991a?w=800&q=80",
+        offers: [
+          "Basic language and communication training",
+          "Cultural etiquette and social norms orientation",
+          "Workplace behavior and academic communication guidance",
+          "Interactive workshops with experienced mentors",
+          "Cultural integration and adaptation strategies",
+        ],
       },
     },
     {
@@ -122,9 +178,16 @@ export default function OurServices() {
       content: {
         title: "Post-arrival Support",
         description:
-          "We assist with initial settlement including accommodation setup, part-time job guidance, and emergency support to ensure a smooth transition.",
+          "Our relationship doesn’t end once you arrive at your destination. We continue supporting you during your early months abroad by assisting with accommodation setup, part-time job search, and local adjustments. You can always reach out for emergency or guidance support whenever needed.",
         image:
-          "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+          "https://images.unsplash.com/photo-1590959651373-a3db0f1d7c61?w=800&q=80",
+        offers: [
+          "Airport pickup coordination and accommodation support",
+          "Guidance on local transportation and registration",
+          "Help with opening bank accounts and part-time jobs",
+          "Emergency contact and welfare assistance",
+          "Continuous communication support from home office",
+        ],
       },
     },
     {
@@ -132,17 +195,23 @@ export default function OurServices() {
       title: "Scholarship & Financial Guidance",
       icon: Trophy,
       content: {
-        title: "Scholarship Guidance",
+        title: "Scholarship & Financial Guidance",
         description:
-          "We identify suitable scholarships and financial aid opportunities and guide you through the application process to ease your financial burden.",
+          "Education abroad can be expensive, but we make it manageable. Our counselors help you explore scholarship opportunities, tuition discounts, and financial aid options available across universities. We guide you through the complete application process so you can focus on your studies without unnecessary stress.",
         image:
           "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80",
+        offers: [
+          "Scholarship eligibility assessment",
+          "Guidance on need-based and merit-based funding",
+          "Assistance with scholarship essays and forms",
+          "Tips to strengthen your financial profile",
+          "Information on tuition fee waivers and grants",
+        ],
       },
     },
   ];
 
   const activeContent = services.find((s) => s.id === activeService)?.content;
-
   const toggleAccordion = (id) => {
     setOpenAccordion(openAccordion === id ? null : id);
   };
@@ -158,10 +227,11 @@ export default function OurServices() {
           your study abroad dreams with confidence.
         </p>
       </div>
+
       <div className="max-w-7xl mx-auto">
         {/* Desktop View */}
         <div className="hidden lg:grid lg:grid-cols-[35%_65%] gap-8">
-          {/* Left Side - Services Menu */}
+          {/* Left Side */}
           <div>
             <div className="flex flex-col">
               <h2 className="text-3xl font-extralight text-gray-900 mb-1">
@@ -211,9 +281,9 @@ export default function OurServices() {
             </div>
           </div>
 
-          {/* Right Side - Content */}
+          {/* Right Side */}
           <div className="bg-white rounded-2xl shadow-lg overflow-hidden">
-            <div className="h-[600px] overflow-y-auto">
+            <div className="h-full overflow-y-auto">
               <AnimatePresence mode="wait">
                 <motion.div
                   key={activeService}
@@ -248,13 +318,25 @@ export default function OurServices() {
                   >
                     {activeContent?.description}
                   </motion.p>
+
+                  {/* Offers List */}
+                  <motion.ul
+                    className="list-disc pl-6 text-gray-700 space-y-2 text-base"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ delay: 0.3, duration: 0.4 }}
+                  >
+                    {activeContent?.offers?.map((offer, i) => (
+                      <li key={i}>{offer}</li>
+                    ))}
+                  </motion.ul>
                 </motion.div>
               </AnimatePresence>
             </div>
           </div>
         </div>
 
-        {/* Mobile/Tablet Accordion View */}
+        {/* Mobile Accordion */}
         <div className="lg:hidden">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">
             Our Core Services
@@ -327,6 +409,18 @@ export default function OurServices() {
                           >
                             {service.content.description}
                           </motion.p>
+
+                          {/* Offers List for Mobile */}
+                          <motion.ul
+                            className="list-disc pl-6 text-gray-700 space-y-2 text-base"
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ delay: 0.4, duration: 0.4 }}
+                          >
+                            {service.content.offers?.map((offer, i) => (
+                              <li key={i}>{offer}</li>
+                            ))}
+                          </motion.ul>
                         </div>
                       </motion.div>
                     )}

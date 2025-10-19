@@ -32,10 +32,11 @@ export default function Footer2() {
               Education Consultancy
             </p>
             <p className="max-w-3xl md:max-w-4xl text-sm sm:text-base md:text-lg opacity-90 leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Laboriosam officia qui non recusandae quas suscipit dolorem
-              accusantium voluptates ab maxime voluptatum iusto, at beatae unde
-              necessitatibus quo officiis exercitationem fuga.
+              KBM Education Consultancy is dedicated to helping students achieve
+              their global education dreams. From career counseling and
+              university selection to visa guidance and pre-departure support,
+              we ensure every step of your study abroad journey is smooth and
+              successful.
             </p>
 
             {/* Button and QR Section */}

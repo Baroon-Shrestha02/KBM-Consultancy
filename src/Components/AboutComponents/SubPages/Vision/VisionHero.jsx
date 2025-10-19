@@ -6,9 +6,7 @@ export default function VisionHero() {
     <div>
       <HeroSection2
         title="Our Mission & Vision"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="We strive to empower students with expert guidance, transparent processes, and comprehensive support to achieve their global education goals."
         btnText="Learn More"
       />
     </div>

@@ -6,9 +6,7 @@ export default function VisaHero() {
     <div>
       <HeroSection2
         title="Visa Assistance"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Get expert guidance for a smooth visa application process and hassle-free approval for your study abroad plans."
         // btnText="Learn More"
       />
     </div>

@@ -7,12 +7,7 @@ export default function UkHero() {
       <StudyHero
         bgImg="/Uploads/study/uk/uk.webp"
         title="United Kingdom 🇬🇧"
-        description="Lulu and Georgia is a contemporary interior design and home
-                    decor company celebrated for its chic, modern aesthetic with
-                    a touch of bohemian charm, offering a wide range of stylish
-                    furniture, rugs, and home accessories that cater to diverse
-                    tastes, transforming homes into beautifully curated,
-                    inviting spaces."
+        description="Experience prestigious education in the UK, rich history, and global networks. Study in the UK develops personal growth, professional skills, and international exposure."
         img="/Uploads/home/hero.avif"
         video="/Uploads/home/hero.mp4"
       />

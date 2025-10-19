@@ -6,9 +6,7 @@ export default function AboutWhyHero() {
     <div>
       <HeroSection2
         title="Why Choose KBM?"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Personalized guidance, expert mentorship, and a global university network to help students achieve their study abroad goals with confidence."
         // btnText="Learn More"
       />
     </div>

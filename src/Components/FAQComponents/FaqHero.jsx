@@ -6,9 +6,7 @@ export default function FaqHero() {
     <div>
       <HeroSection2
         title="Frequently Asked Questions (FAQ)"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Find answers to the most common questions about studying abroad, visa assistance, and our services."
         btnText="Contact Us"
       />
     </div>

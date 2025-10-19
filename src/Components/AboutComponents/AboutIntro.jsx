@@ -170,21 +170,24 @@ export default function AboutIntro() {
                 transition={{ duration: 0.8, delay: 0.5 }}
               >
                 <p className="first-letter:text-5xl first-letter:font-bold first-letter:text-blue-600 first-letter:mr-1 first-letter:float-left">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam
-                  accusantium quo necessitatibus earum. Dolore pariatur
-                  repudiandae rem similique perspiciatis voluptates ipsa, alias
-                  adipisci velit repellat totam aut illo consectetur quasi qui
-                  unde.
+                  KBM Education Consultancy is committed to empowering students
+                  to achieve their dreams of studying abroad. With years of
+                  experience, we provide trusted guidance in university
+                  selection, visa processing, and pre-departure support for
+                  destinations including Japan, Australia, the UK, the USA, and
+                  Canada.
                 </p>
+
                 <p>
-                  Est amet quam omnis officiis ex. Veritatis quae maxime, nisi
-                  vitae ullam ducimus nesciunt consequuntur vero sapiente
-                  eligendi tempore magnam repellendus, cupiditate ea, eius
-                  numquam suscipit explicabo.
+                  Our dedicated team ensures each student receives personalized
+                  counseling and continuous support throughout their academic
+                  journey — from choosing the right course to settling into a
+                  new environment abroad.
                 </p>
+
                 <p className="italic">
-                  "Eaque non omnis quaerat blanditiis eum provident perferendis,
-                  ab possimus id libero soluta quis ratione quam esse rem "
+                  “Guiding your journey beyond borders — from aspirations to
+                  global success.”
                 </p>
               </motion.div>
             </div>

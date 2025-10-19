@@ -7,12 +7,7 @@ export default function AusHero() {
       <StudyHero
         bgImg="/Uploads/study/aus/aus.webp"
         title="Australia 🇦🇺"
-        description="Lulu and Georgia is a contemporary interior design and home
-                    decor company celebrated for its chic, modern aesthetic with
-                    a touch of bohemian charm, offering a wide range of stylish
-                    furniture, rugs, and home accessories that cater to diverse
-                    tastes, transforming homes into beautifully curated,
-                    inviting spaces."
+        description="Experience top-quality education in Australia with diverse culture, innovative learning, and beautiful landscapes. Study in Australia fosters personal growth, global exposure, and career opportunities."
         img="/Uploads/home/hero.avif"
         video="/Uploads/home/hero.mp4"
       />

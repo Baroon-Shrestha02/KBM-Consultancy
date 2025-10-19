@@ -6,9 +6,7 @@ export default function TestimonialsHero() {
     <div>
       <HeroSection2
         title="Hear From Students"
-        description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-            eveniet, facilis a aspernatur debitis, suscipit ratione delectus
-            consequuntur molestiae cum expedita cupiditate non autem explicabo."
+        description="Discover the experiences of our students and how KBM Education Consultancy helped them achieve their study abroad dreams."
         btnText="Join Now"
       />
     </div>

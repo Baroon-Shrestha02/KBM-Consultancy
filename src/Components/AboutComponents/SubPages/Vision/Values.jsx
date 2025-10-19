@@ -19,16 +19,18 @@ export default function Values() {
           {/* Description */}
           <div className="flex items-center justify-center text-center px-4">
             <p className="max-w-4xl text-sm sm:text-base md:text-lg leading-relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-              consectetur voluptas deserunt distinctio reprehenderit cumque, nam
-              labore veritatis quisquam tempore, incidunt quam animi omnis enim
-              sequi fuga saepe nobis voluptatum ut. Laborum fuga, rerum iure
-              maiores sequi sunt qui, ut animi enim aspernatur incidunt minima
-              minus blanditiis magni consequuntur recusandae corrupti ipsam
-              neque id. Rerum vel expedita beatae tenetur fugiat quod itaque
-              voluptates cumque corporis, impedit totam laudantium iusto illo
-              exercitationem ipsam ab quae, maiores accusantium nihil velit
-              nesciunt perferendis dolor sapiente.
+              At KBM Education Consultancy, our core values guide every decision
+              and interaction. We are committed to integrity, transparency, and
+              honesty, ensuring students receive accurate and reliable guidance
+              throughout their study abroad journey. Excellence drives us to
+              provide top-quality mentorship, personalized counseling, and
+              practical solutions that empower students to achieve their
+              academic and career goals. We value empathy and respect, fostering
+              a supportive environment where every student feels heard and
+              encouraged. Collaboration, innovation, and continuous learning are
+              central to our approach, enabling us to adapt to changing global
+              education trends while maintaining our dedication to student
+              success and holistic development.
             </p>
           </div>
 

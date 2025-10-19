@@ -7,12 +7,7 @@ export default function JapanHero() {
       <StudyHero
         bgImg="/Uploads/study/jap/jap.jpg"
         title="Japan 🇯🇵"
-        description="Lulu and Georgia is a contemporary interior design and home
-                    decor company celebrated for its chic, modern aesthetic with
-                    a touch of bohemian charm, offering a wide range of stylish
-                    furniture, rugs, and home accessories that cater to diverse
-                    tastes, transforming homes into beautifully curated,
-                    inviting spaces."
+        description="Experience world-class education in Japan while enjoying a vibrant culture, advanced technology, and unique traditions. Study in Japan offers students personal growth, career opportunities, and an unforgettable international experience."
         img="/Uploads/home/hero.avif"
         video="/Uploads/home/hero.mp4"
       />
