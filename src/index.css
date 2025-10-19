@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #e1562c;
+  --color-secondary: #16610f;
+  --color-background: #f4e9dc;
+  --color-text: #7a542f;
+}
+
+@font-face {
+  font-family: "gurota";
+  src: url("./Utils/Fonts/guorta-regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "quick";
+  src: url("./Utils/Fonts/gc-quick-gaseous.ttf") format("truetype");
+}
+
+* {
+  font-family: "quick", "sans-serif";
+}
+
+/* Hide scrollbar when needed */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
