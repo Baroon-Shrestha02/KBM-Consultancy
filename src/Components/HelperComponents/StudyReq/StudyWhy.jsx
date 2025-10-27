@@ -47,13 +47,13 @@ export default function StudyWhy({
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: index * 0.05, duration: 0.6 }}
               viewport={{ once: true }}
-              className="p-6 border border-white/20 bg-white/10 backdrop-blur-md rounded-2xl"
+              className="p-6 border border-white/20 bg-gray-600/10 backdrop-blur-md rounded-2xl"
             >
               <div className="flex items-start space-x-3">
-                <span className="text-rose-400 font-semibold text-xl">
+                <span className="text-white font-semibold  text-lg md:text-2xl">
                   {index + 1}.
                 </span>
-                <p className="text-base md:text-lg leading-relaxed text-gray-100">
+                <p className="text-base md:text-xl leading-relaxed text-gray-100">
                   {reason}
                 </p>
               </div>

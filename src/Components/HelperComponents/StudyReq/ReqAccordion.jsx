@@ -18,7 +18,7 @@ export default function ReqAccordion({
   };
 
   return (
-    <section className="relative w-full min-h-screen bg-black/40 overflow-hidden">
+    <section className="relative w-full min-h-screen bg-blue overflow-hidden">
       {/* Background Image Overlay */}
       {backgroundImage && (
         <motion.div

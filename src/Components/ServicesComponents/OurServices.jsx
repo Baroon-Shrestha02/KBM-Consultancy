@@ -217,7 +217,7 @@ export default function OurServices() {
   };
 
   return (
-    <section className="px-6 py-16 my-16 mx-6 bg-gray-50">
+    <section className="px-6 py-16 my-16 mx-6 bg-blue/10 rounded-4xl">
       <div className="text-center mb-16">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4">
           Our Core Services
@@ -249,8 +249,8 @@ export default function OurServices() {
                     onClick={() => setActiveService(service.id)}
                     className={`flex items-center justify-between px-6 py-4 rounded-lg border-2 ${
                       isActive
-                        ? "bg-emerald-800 text-white border-emerald-800"
-                        : "bg-white text-gray-700 border-gray-200 hover:border-emerald-600"
+                        ? "bg-blue text-white border-blue"
+                        : "bg-white text-gray-700 border-gray-200 hover:border-blue"
                     }`}
                     whileHover={{ scale: 1.02, x: 5 }}
                     whileTap={{ scale: 0.98 }}

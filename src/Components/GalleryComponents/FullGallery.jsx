@@ -236,8 +236,8 @@ export default function FullGallery() {
               className={`relative px-5 py-2 rounded-full text-sm font-medium transition-all duration-300
         ${
           selectedCategory === cat
-            ? "bg-secondary text-white shadow-md"
-            : "text-gray-700 hover:bg-secondary hover:text-white"
+            ? "bg-blue text-white shadow-md"
+            : "text-blue hover: hover:text-blue"
         }`}
             >
               {cat}

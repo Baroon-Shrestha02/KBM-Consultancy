@@ -55,7 +55,7 @@ export default function HomeContact() {
               </div>
               <div>
                 <p className="text-sm text-gray-400">Phone</p>
-                <p className=" font-semibold">+977 9812345678</p>
+                <p className=" font-semibold">+977 9860904663</p>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ export default function HomeContact() {
               </div>
               <div>
                 <p className="text-sm text-gray-400">Email</p>
-                <p className="text-gray-200">info@yourdomain.com</p>
+                <p className="text-gray-200">kbmedu.com@gmail.com</p>
               </div>
             </div>
 
@@ -75,7 +75,9 @@ export default function HomeContact() {
               </div>
               <div>
                 <p className="text-sm text-gray-400">Location</p>
-                <p className="text-gray-200">Kathmandu, Nepal</p>
+                <p className="text-gray-200">
+                  Balaju Ring Rd, Nabil Bank Building (4th Floor), Kathmandu
+                </p>
               </div>
             </div>
           </div>

@@ -34,10 +34,7 @@ export default function ContactForm() {
   };
 
   const handleLocationClick = () => {
-    window.open(
-      "https://www.google.com/maps/search/?api=1&query=Baneshwor,+Kathmandu",
-      "_blank"
-    );
+    window.open("https://maps.app.goo.gl/TBM11zCkhzZoptjHA", "_blank");
   };
 
   const handleInputChange = (e) => {
@@ -88,10 +85,10 @@ ${formData.message || "No message provided"}
               <Phone className="w-6 h-6 text-slate-600" />
             </div>
             <button
-              onClick={() => handleCopyPhone("+977 9800000000")}
+              onClick={() => handleCopyPhone("+977 9860904663")}
               className="text-slate-600 hover:text-slate-800 transition-colors text-left block mb-2 w-full"
             >
-              +977 9800000000
+              +977 9860904663
             </button>
             {copiedPhone && (
               <p className="text-xs text-green-600 mt-2">
@@ -106,10 +103,10 @@ ${formData.message || "No message provided"}
               <Mail className="w-6 h-6 text-slate-600" />
             </div>
             <button
-              onClick={() => handleEmailClick("info@kbm.edu.np")}
+              onClick={() => handleEmailClick("kbmedu.com@gmail.com")}
               className="text-slate-600 hover:text-slate-800 transition-colors text-left block mb-2 w-full"
             >
-              info@kbm.edu.np
+              kbmedu.com@gmail.com
             </button>
           </div>
 
@@ -122,7 +119,7 @@ ${formData.message || "No message provided"}
               onClick={handleLocationClick}
               className="text-slate-600 hover:text-slate-800 transition-colors text-left block"
             >
-              Baneshwor, Kathmandu
+              Balaju Ring Rd, Nabil Bank Building (4th Floor)
             </button>
           </div>
         </div>

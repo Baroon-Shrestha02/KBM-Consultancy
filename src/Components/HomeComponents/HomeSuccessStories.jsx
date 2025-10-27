@@ -14,10 +14,10 @@ export default function HomeSuccessStories() {
   return (
     <section className="py-12 px-4 bg-gray-50 m-6 rounded-4xl">
       <div className="text-center mb-10">
-        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-3 text-text">
+        <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-3 text-blue">
           Results that Speak Volume
         </h1>
-        <h2 className="text-text/80 text-2xl sm:text-3xl lg:text-4xl">
+        <h2 className="text-blue/80 text-2xl md:text-4xl">
           Read Success Stories
         </h2>
       </div>

@@ -11,9 +11,10 @@ export default function HomeTestimonials() {
       role: "Student – Japan",
       image: "Uploads/home/prof.jpg",
       quote:
-        "KBM Education Consultancy made my journey to Japan completely stress-free. From the visa interview to finding accommodation after arrival, their constant support helped me adapt quickly to life abroad.",
-      bg: "bg-[#F4E9DC] text-[#7A542F]",
+        "KBM Education Consultancy made my journey to Japan completely stress-free. From guiding me through the visa interview process to helping me understand the necessary documentation, they ensured I was always well-prepared. Even after I arrived in Japan, their support continued with accommodation arrangements, orientation sessions, and regular check-ins to make sure I was adjusting well. Thanks to their professional guidance and encouragement, I gained the confidence to start my academic journey smoothly and settle into a new culture without worry.",
+      bg: "bg-text/80 text-white",
     },
+
     {
       id: 2,
       name: "Priya Karki",
@@ -30,7 +31,7 @@ export default function HomeTestimonials() {
       image: "Uploads/home/prof.jpg",
       quote:
         "The process of applying to U.S. universities can be overwhelming, but KBM made it effortless. After my visa approval, they continued to guide me on housing, part-time work, and adapting to the new environment. I couldn’t have done it without them.",
-      bg: "bg-[#F4E9DC] text-[#7A542F] shadow-xl",
+      bg: "bg-text/80 text-white shadow-xl",
     },
     {
       id: 4,
@@ -39,7 +40,7 @@ export default function HomeTestimonials() {
       image: "Uploads/home/prof.jpg",
       quote:
         "KBM Education Consultancy provided complete support — from university selection in the UK to pre-departure orientation. Even after my arrival, they followed up to ensure everything went smoothly. Their professionalism and care are unmatched.",
-      bg: "bg-black text-white",
+      bg: "bg-blue text-white",
     },
     {
       id: 5,
@@ -56,8 +57,8 @@ export default function HomeTestimonials() {
     <>
       <section className="px-4 sm:px-6 lg:px-8 my-12 mx-6">
         <div className="text-center text-3xl sm:text-4xl lg:text-5xl font-extrabold mb-8 sm:mb-10">
-          <h1 className="mb-3 text-text">Transforming Futures</h1>
-          <h2 className="text-text/80 text-2xl sm:text-3xl lg:text-4xl">
+          <h1 className="mb-3 text-blue">Transforming Futures</h1>
+          <h2 className="text-blue/80 text-2xl md:text-4xl ">
             Hear What Our Students Say About KBM
           </h2>
         </div>
@@ -88,9 +89,7 @@ export default function HomeTestimonials() {
                 </div>
                 <div className="flex flex-col text-sm sm:text-base">
                   <div className="font-semibold">{testimonials[0].name}</div>
-                  <div className="text-[#7A542F]/70">
-                    {testimonials[0].role}
-                  </div>
+                  <div className="text-white">{testimonials[0].role}</div>
                 </div>
               </div>
             </div>
@@ -142,9 +141,7 @@ export default function HomeTestimonials() {
                       <div className="font-semibold">
                         {testimonials[2].name}
                       </div>
-                      <div className="text-[#7A542F]/80">
-                        {testimonials[2].role}
-                      </div>
+                      <div className="text-white">{testimonials[2].role}</div>
                     </div>
                   </div>
                 </div>

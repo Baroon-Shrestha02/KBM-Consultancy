@@ -2,23 +2,23 @@ import React from "react";
 
 export default function Values() {
   return (
-    <section className="mx-6 bg-yellow-100 h-[90vh] flex items-center">
-      <div className="container mx-auto p-6 md:p-10 h-full">
-        {/* Use grid to divide height equally among 3 rows */}
-        <div className="grid grid-rows-3 h-full gap-4">
-          {/* (01) and Heading */}
-          <div className="flex items-center justify-between">
+    <section className="mx-6 bg-[#F49926] text-white flex items-center py-12 md:py-20 rounded-4xl">
+      <div className="container mx-auto p-6 md:p-10">
+        {/* Grid with flexible row heights */}
+        <div className="grid grid-rows-[auto_auto_auto] gap-8">
+          {/* (03) and Heading */}
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="text-4xl md:text-7xl font-extralight italic">
               (03)
             </div>
-            <div className="text-5xl md:text-8xl font-extrabold">
+            <div className="text-5xl md:text-8xl font-extrabold text-center md:text-right">
               Our Values
             </div>
           </div>
 
           {/* Description */}
           <div className="flex items-center justify-center text-center px-4">
-            <p className="max-w-4xl text-sm sm:text-base md:text-lg leading-relaxed">
+            <p className="max-w-6xl text-sm sm:text-base md:text-lg leading-relaxed">
               At KBM Education Consultancy, our core values guide every decision
               and interaction. We are committed to integrity, transparency, and
               honesty, ensuring students receive accurate and reliable guidance
@@ -38,8 +38,8 @@ export default function Values() {
           <div className="flex items-center justify-center overflow-hidden rounded-2xl">
             <img
               src="/Uploads/about/vision.jpg"
-              alt="Our Vision"
-              className="w-full h-full object-cover"
+              alt="Our Values"
+              className="w-full h-[400px] md:h-[500px] object-cover rounded-2xl"
             />
           </div>
         </div>

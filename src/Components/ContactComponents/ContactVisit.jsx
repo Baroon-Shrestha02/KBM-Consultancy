@@ -7,7 +7,7 @@ export default function ContactVisit() {
 
   const copyPhoneToClipboard = async () => {
     try {
-      await navigator.clipboard.writeText("+977 9818739823");
+      await navigator.clipboard.writeText("+977 9860904663");
       setPhoneCopied(true);
       setTimeout(() => setPhoneCopied(false), 2000); // Reset after 2 seconds
     } catch (err) {
@@ -20,9 +20,10 @@ export default function ContactVisit() {
       {/* Mobile/Tablet Layout (Grid Stack) */}
       <div className="lg:hidden grid grid-rows-[400px_auto] gap-4 rounded-3xl overflow-hidden">
         {/* Map Section - Top */}
+
         <div className="relative w-full h-full rounded-3xl overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15602.898618497391!2d85.32951861145153!3d27.69468421903422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb199a06c2eaf9%3A0xc5670a9173e161de!2sNew%20Baneshwor%2C%20Kathmandu%2044600!5e1!3m2!1sen!2snp!4v1760599498617!5m2!1sen!2snp"
+            src="https://www.google.com/maps/emed?pb=!1m18!1m12!1m3!1d3531.450795213801!2d85.30511729999999!3d27.7342385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18db6f968aa1%3A0x2e4210f46b8a264b!2sNabil%20Bank%20Limited!5e0!3m2!1sen!2snp!4v1761476957542!5m2!1sen!2snp"
             width="100%"
             height="100%"
             style={{ border: 0 }}
@@ -58,7 +59,7 @@ export default function ContactVisit() {
                 onClick={copyPhoneToClipboard}
                 className="text-base text-white hover:text-blue-300 transition-colors cursor-pointer"
               >
-                {phoneCopied ? "Copied!" : "+977 9818739823"}
+                {phoneCopied ? "Copied!" : "+977 9860904663"}
               </button>
             </div>
 
@@ -67,10 +68,10 @@ export default function ContactVisit() {
                 <Mail className="w-5 h-5 text-white" />
               </div>
               <a
-                href="mailto:info@KBM.com"
+                href="mailto:kbmedu.com@gmail.com"
                 className="text-base text-white hover:text-blue-300 transition-colors"
               >
-                info@KBM.com
+                kbmedu.com@gmail.com
               </a>
             </div>
 
@@ -78,7 +79,9 @@ export default function ContactVisit() {
               <div className="bg-blue-600 p-2.5 rounded-lg shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <MapPin className="w-5 h-5 text-white" />
               </div>
-              <span className="text-base text-white">Baneshwor, Kathmandu</span>
+              <span className="text-base text-white">
+                Balaju Ring Rd, Nabil Bank Building (4th Floor), Kathmandu
+              </span>
             </div>
           </div>
 
@@ -100,7 +103,7 @@ export default function ContactVisit() {
         {/* Background Map */}
         <div className="absolute inset-0 w-full h-full">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15602.898618497391!2d85.32951861145153!3d27.69468421903422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb199a06c2eaf9%3A0xc5670a9173e161de!2sNew%20Baneshwor%2C%20Kathmandu%2044600!5e1!3m2!1sen!2snp!4v1760599498617!5m2!1sen!2snp"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.450795213801!2d85.30511729999999!3d27.7342385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18db6f968aa1%3A0x2e4210f46b8a264b!2sNabil%20Bank%20Limited!5e0!3m2!1sen!2snp!4v1761477248027!5m2!1sen!2snp"
             width="100%"
             height="100%"
             style={{
@@ -194,10 +197,10 @@ export default function ContactVisit() {
                   <Mail className="w-5 h-5 text-blue-600" />
                 </div>
                 <a
-                  href="mailto:info@KBM.com"
+                  href="mailto:kbmedu.com@gmail.com"
                   className="text-lg text-white hover:text-blue-300 transition-colors"
                 >
-                  info@KBM.com
+                  kbmedu.com@gmail.com
                 </a>
               </div>
 
@@ -205,14 +208,16 @@ export default function ContactVisit() {
                 <div className="bg-white p-3 rounded-xl shadow-lg group-hover:scale-110 transition-transform duration-300">
                   <MapPin className="w-5 h-5 text-blue-600" />
                 </div>
-                <span className="text-lg text-white">Baneshwor, Kathmandu</span>
+                <span className="text-lg text-white">
+                  Balaju Ring Rd, Nabil Bank Building (4th Floor), Kathmandu
+                </span>
               </div>
             </div>
 
             {/* Navigate Button */}
             <div className="flex flex-col xl:flex-row gap-3">
               <a
-                href="https://maps.app.goo.gl/zTpmQK9rrtn4JbJD9"
+                href="https://maps.app.goo.gl/TBM11zCkhzZoptjHA"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl shadow-lg transition-all duration-300 flex items-center justify-center gap-2 group"

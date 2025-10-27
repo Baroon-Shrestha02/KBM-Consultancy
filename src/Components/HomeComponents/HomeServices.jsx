@@ -20,8 +20,7 @@ const content = [
     name: "Documentation",
     fullName: "Document Preparation & Application Support",
     tags: ["SOP", "Financial Documents", "Application Forms"],
-    image:
-      "https://images.unsplash.com/photo-1581093588401-22c8d3a1f9c8?w=800&q=80",
+    image: "/Uploads/home/services/docs.avif",
     description:
       "From preparing your Statement of Purpose to organizing financial and academic documents, our team ensures that every paper meets embassy and university standards. We guide you through every step of the application process with accuracy and care.",
     href: "/services/documentation",
@@ -31,8 +30,7 @@ const content = [
     name: "Visa Processing",
     fullName: "Visa Application & Interview Preparation",
     tags: ["Visa Filing", "Interview Guidance", "Embassy Support"],
-    image:
-      "https://images.unsplash.com/photo-1600267165946-b441c9c1bb7b?w=800&q=80",
+    image: "/Uploads/home/services/vias.png",
     description:
       "Our experts assist in preparing all necessary visa documents and offer mock interview sessions to build your confidence. We stay updated with the latest immigration rules to ensure a smooth visa approval process.",
     href: "/services/visa-assistance",
@@ -88,7 +86,7 @@ export default function HomeServices() {
   return (
     <section className="container mx-auto px-4 py-12">
       <div className="mb-12 flex items-center flex-col gap-4">
-        <h1 className="text-4xl lg:text-5xl text-center font-extrabold text-text leading-tight ">
+        <h1 className="text-4xl lg:text-5xl text-center font-extrabold text-blue leading-tight ">
           Explore Our Services
         </h1>
         <p className="max-w-3xl text-center text-base md:text-lg mx-auto">
@@ -147,7 +145,7 @@ export default function HomeServices() {
             >
               <div className="space-y-6">
                 <div>
-                  <h2 className="text-5xl lg:text-6xl font-bold text-text mb-2">
+                  <h2 className="text-5xl lg:text-6xl font-bold text-blue mb-2">
                     {currentContent.name}
                   </h2>
                   <p className="text-xl text-gray-700 font-medium">
@@ -159,7 +157,7 @@ export default function HomeServices() {
                   {currentContent.tags.map((tag, idx) => (
                     <span
                       key={idx}
-                      className="px-6 py-2 bg-background text-text rounded-full font-medium text-sm"
+                      className="px-6 py-2 bg-text/10 text-text rounded-full font-medium text-md"
                     >
                       {tag}
                     </span>
@@ -179,26 +177,8 @@ export default function HomeServices() {
           </AnimatePresence>
 
           {/* Large Background Number */}
-          <div className="absolute bottom-0 right-6 text-[250px] font-bold text-background leading-none pointer-events-none">
+          <div className="absolute bottom-0 right-6 text-[250px] font-bold text-blue/10 leading-none pointer-events-none">
             0{currentContent.id}
-          </div>
-
-          {/* Dots Navigation */}
-          <div className="absolute top-8 right-8 flex flex-col gap-3 z-20">
-            {content.map((_, idx) => (
-              <button
-                key={idx}
-                onClick={() => {
-                  setDirection(idx > currentIndex ? 1 : -1);
-                  setCurrentIndex(idx);
-                }}
-                className={`w-3 h-3 rounded-full transition-all ${
-                  idx === currentIndex
-                    ? "bg-amber-500 scale-125"
-                    : "bg-amber-300 hover:bg-amber-400"
-                }`}
-              />
-            ))}
           </div>
         </div>
 
@@ -265,7 +245,7 @@ export default function HomeServices() {
               <div className="p-6 relative">
                 <div className="space-y-4">
                   <div>
-                    <h2 className="text-4xl font-bold text-background mb-1">
+                    <h2 className="text-4xl font-bold text-blue mb-1">
                       {currentContent.name}
                     </h2>
                     <p className="text-lg text-gray-700 font-medium">
@@ -295,7 +275,7 @@ export default function HomeServices() {
                 </div>
 
                 {/* Large Background Number */}
-                <div className="absolute bottom-0 right-0 text-[120px] font-bold text-background leading-none pointer-events-none">
+                <div className="absolute bottom-0 right-0 text-[120px] font-bold text-blue/20 leading-none pointer-events-none">
                   0{currentContent.id}
                 </div>
               </div>

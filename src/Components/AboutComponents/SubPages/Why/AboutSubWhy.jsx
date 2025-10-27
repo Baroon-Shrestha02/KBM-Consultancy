@@ -218,7 +218,7 @@ export default function AboutSubWhy() {
                         animate={{ scale: 1, opacity: 1 }}
                         exit={{ scale: 0.95, opacity: 0 }}
                         transition={{ duration: 0.3, ease: "easeOut" }}
-                        className="bg-background rounded-2xl p-8 relative text-text shadow-xl"
+                        className="bg-blue rounded-2xl p-8 relative text-text shadow-xl"
                       >
                         <motion.div
                           initial={{ opacity: 0, y: 10 }}
@@ -231,12 +231,12 @@ export default function AboutSubWhy() {
                                 e.stopPropagation();
                                 handleReasonClick(reason);
                               }}
-                              className="text-text hover:text-white p-1 transition-colors"
+                              className="text-white hover:text-white p-1 transition-colors"
                             >
                               <X />
                             </button>
                           </div>
-                          <div className="text-text leading-relaxed">
+                          <div className="text-white leading-relaxed">
                             {reason.description}
                           </div>
                         </motion.div>

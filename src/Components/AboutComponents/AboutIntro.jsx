@@ -100,7 +100,7 @@ export default function AboutIntro() {
                   transition={{ duration: 0.4, ease: "easeOut", delay: 0.1 }}
                 >
                   <img
-                    src="Uploads/home/hero.avif"
+                    src="Uploads/about/intro1.png"
                     alt="Student Success"
                     className="h-full w-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:brightness-110"
                   />
@@ -113,7 +113,7 @@ export default function AboutIntro() {
                   transition={{ duration: 0.4, ease: "easeOut", delay: 0.2 }}
                 >
                   <img
-                    src="Uploads/home/hero.avif"
+                    src="Uploads/about/intro2.jpeg"
                     alt="Expert Guidance"
                     className="h-full w-full object-cover transition-all duration-700 group-hover:scale-110 group-hover:brightness-110"
                   />

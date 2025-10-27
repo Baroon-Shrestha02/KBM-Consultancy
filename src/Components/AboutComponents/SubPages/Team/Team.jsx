@@ -110,7 +110,7 @@ export default function TeamMembers() {
             </button>
             <button
               onClick={handleNext}
-              className=" px-4 bg-teal-500 hover:bg-teal-600 text-white py-3 rounded-xl transition-colors duration-200 flex items-center justify-center gap-2 font-medium shadow-sm"
+              className=" px-4 bg-green  text-white py-3 rounded-xl transition-colors duration-200 flex items-center justify-center gap-2 font-medium shadow-sm"
             >
               Next
               <ChevronRight size={20} />
@@ -142,7 +142,7 @@ export default function TeamMembers() {
                   <h3 className="text-4xl font-bold text-gray-900 mb-2">
                     {activeMember.name}
                   </h3>
-                  <p className="text-lg text-teal-600 font-medium">
+                  <p className="text-lg text-green font-medium">
                     {activeMember.role}
                   </p>
                 </div>
@@ -178,7 +178,7 @@ export default function TeamMembers() {
                         <p className="text-gray-900 font-semibold truncate">
                           {member.name}
                         </p>
-                        <p className="text-teal-600 text-sm truncate">
+                        <p className="text-green text-sm truncate">
                           {member.role}
                         </p>
                       </div>

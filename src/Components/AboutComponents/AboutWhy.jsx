@@ -26,7 +26,7 @@ export default function AboutWhy() {
             <div
               className="absolute inset-0 w-full h-full bg-cover bg-center rounded-3xl"
               style={{
-                backgroundImage: "url('/Uploads/home/counseling.jpg')",
+                backgroundImage: "url('/Uploads/about/why/counselling.png')",
                 zIndex: 0,
               }}
             >
@@ -50,7 +50,7 @@ export default function AboutWhy() {
             <div
               className="absolute inset-0 w-full h-full bg-cover bg-center rounded-3xl"
               style={{
-                backgroundImage: "url('/Uploads/home/expert.jpg')",
+                backgroundImage: "url('/Uploads/about/why/experts.jpg')",
                 zIndex: 0,
               }}
             >
@@ -76,7 +76,7 @@ export default function AboutWhy() {
             <div
               className="absolute inset-0 w-full h-full bg-cover bg-center rounded-3xl"
               style={{
-                backgroundImage: "url('/Uploads/home/transparent.jpg')",
+                backgroundImage: "url('/Uploads/about/why/transparent.jpg')",
                 zIndex: 0,
               }}
             >
@@ -101,7 +101,7 @@ export default function AboutWhy() {
               <div
                 className="absolute inset-0 w-full h-full bg-cover bg-center rounded-3xl"
                 style={{
-                  backgroundImage: "url('/Uploads/home/support.jpg')",
+                  backgroundImage: "url('/Uploads/about/why/end.jpg')",
                   zIndex: 0,
                 }}
               >
@@ -124,7 +124,7 @@ export default function AboutWhy() {
               <div
                 className="absolute inset-0 w-full h-full bg-cover bg-center rounded-3xl"
                 style={{
-                  backgroundImage: "url('/Uploads/home/university.jpg')",
+                  backgroundImage: "url('/Uploads/about/why/network.webp')",
                   zIndex: 0,
                 }}
               >
